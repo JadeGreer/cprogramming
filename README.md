@@ -1,0 +1,1 @@
+Implementation of examples and exercises from the C programming book by K&R.
